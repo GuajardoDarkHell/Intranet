@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Intranet Movil</string>
+    //Inicio de sesion
+    <string name="host">Host</string>
+    <string name="subdominio">Subdominio</string>
+    <string name="uuid">UUID</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Constraseña</string>
+    <string name="nocerrar">No Cerrar Sesión</string>
+    <string name="iniciar">Iniciar Sesión</string>
+    <string name="nocierre">No Cerrar Sesión</string>
+    
+    //menú principal
+    <string name="bienvenido">Bienvenido</string>
+    <string name="men_principal">Menú Principal</string>
+    <string name="tickets">Tickets</string>
+    <string name="invfisc">Inventario Físico</string>
+    <string name="surt">Control de Surtidos</string>
+    <string name="salir">Salir</string>
+
+</resources>
